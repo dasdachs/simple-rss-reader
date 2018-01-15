@@ -1,0 +1,7 @@
+.loader-div {
+    min-height:80vh
+}
+.loader-img {
+    display: block;
+    margin: 0 auto;
+}

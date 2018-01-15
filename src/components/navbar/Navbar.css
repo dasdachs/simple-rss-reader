@@ -1,0 +1,11 @@
+.close {
+    float: right;
+}
+.close:after {
+    content:'';
+    display:block;
+    clear: both;
+}
+.drawer-menu {
+    clear: both;
+}
