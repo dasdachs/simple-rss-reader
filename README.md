@@ -1,3 +1,19 @@
+# Simple React RSS reader
+
+## Install
+
+Make sure `node` and `npm` are installed.
+
+```js
+git clone https://github.com/dasdachs/simple-rss-reader 
+cd simple-rss-reader
+npm install
+npm start
+```
+That's it for now.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
